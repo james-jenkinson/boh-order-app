@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/boh-order-app/static/css/main.3829b779.css",
+    "main.js": "/boh-order-app/static/js/main.71e24a20.js",
+    "static/js/787.11b27de8.chunk.js": "/boh-order-app/static/js/787.11b27de8.chunk.js",
+    "index.html": "/boh-order-app/index.html",
+    "main.3829b779.css.map": "/boh-order-app/static/css/main.3829b779.css.map",
+    "main.71e24a20.js.map": "/boh-order-app/static/js/main.71e24a20.js.map",
+    "787.11b27de8.chunk.js.map": "/boh-order-app/static/js/787.11b27de8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3829b779.css",
+    "static/js/main.71e24a20.js"
+  ]
+}
